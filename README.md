@@ -45,7 +45,7 @@ SARIMA Performance: Evaluated using MAE (Mean Absolute Error), RMSE (Root Mean S
 
 SARIMAX Extension: SARIMAX (Seasonal AutoRegressive Integrated Moving Average with eXogenous variables) incorporated temperature, humidity, windspeed, workingday, and holiday.
 
-SARIMAX Performance: Achieved improved MAPE 13.26 percent, demonstrating better predictive accuracy.
+SARIMAX Performance: Achieved improved MAPE 10.52 percent, demonstrating better predictive accuracy.
 
 Key Insight: Temperature and calendar effects significantly influence hourly demand.
 
